@@ -1,0 +1,16 @@
+/* Дополнительный индивидуальный стиль */
+body {
+	font-family: 'Arial', sans-serif;
+}
+
+/* Настройка боковой панели */
+.sidebar {
+	width: 25%;
+	background-color: #f5f5f5;
+}
+
+/* Основная область содержимого */
+.main-content {
+	width: 75%;
+	padding: 20px;
+}
